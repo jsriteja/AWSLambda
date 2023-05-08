@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\test\\Wandfunction.Tests\\Wandfunction.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\src\\Wandfunction\\Wandfunction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\src\\Wandfunction\\Wandfunction.csproj",
+        "projectName": "Wandfunction",
+        "projectPath": "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\src\\Wandfunction\\Wandfunction.csproj",
+        "packagesPath": "C:\\Users\\ppati149\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\src\\Wandfunction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ppati149\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\test\\Wandfunction.Tests\\Wandfunction.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\test\\Wandfunction.Tests\\Wandfunction.Tests.csproj",
+        "projectName": "Wandfunction.Tests",
+        "projectPath": "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\test\\Wandfunction.Tests\\Wandfunction.Tests.csproj",
+        "packagesPath": "C:\\Users\\ppati149\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\test\\Wandfunction.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ppati149\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\src\\Wandfunction\\Wandfunction.csproj": {
+                "projectPath": "c:\\Users\\ppati149\\Desktop\\Level2\\Wandfunction\\src\\Wandfunction\\Wandfunction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.TestUtilities": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

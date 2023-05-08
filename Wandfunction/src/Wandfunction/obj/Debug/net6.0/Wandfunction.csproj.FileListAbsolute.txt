@@ -1,0 +1,50 @@
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Wandfunction.deps.json
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Wandfunction.runtimeconfig.json
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Wandfunction.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Wandfunction.pdb
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.Serialization.Json.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.SQSEvents.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\AWSSDK.SQS.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.csproj.AssemblyReference.cache
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.AssemblyInfoInputs.cache
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.AssemblyInfo.cs
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.csproj.CoreCompileInputs.cache
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.csproj.CopyComplete
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\refint\Wandfunction.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.pdb
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.genruntimeconfig.cache
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\obj\Debug\net6.0\ref\Wandfunction.dll
+C:\Users\ppati149\Desktop\Level2\Wandfunction\src\Wandfunction\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Wandfunction.deps.json
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Wandfunction.runtimeconfig.json
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Wandfunction.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Wandfunction.pdb
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.Serialization.Json.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Amazon.Lambda.SQSEvents.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\AWSSDK.SQS.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.csproj.AssemblyReference.cache
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.AssemblyInfoInputs.cache
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.AssemblyInfo.cs
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.csproj.CoreCompileInputs.cache
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.csproj.CopyComplete
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\refint\Wandfunction.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.pdb
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\Wandfunction.genruntimeconfig.cache
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\obj\Debug\net6.0\ref\Wandfunction.dll

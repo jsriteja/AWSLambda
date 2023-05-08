@@ -1,0 +1,14 @@
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Wandfunction.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Wandfunction.deps.json
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Wandfunction.runtimeconfig.json
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Wandfunction.pdb
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Amazon.Lambda.Serialization.Json.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\AWSSDK.Core.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\AWSSDK.S3.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\AWSSDK.SQS.dll
+C:\Users\jsriteja\OneDrive - Capgemini\Desktop\Wandfunction\src\Wandfunction\bin\Debug\net6.0\publish\Newtonsoft.Json.dll
